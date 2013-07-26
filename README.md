@@ -4,7 +4,7 @@ These utils are things I use every day, nothing special.
 If you use these scripts, make sure you understand what they do
 before using them, or you might break something.
 
-# Bin
+## Bin
 
 | Name   | Description
 |:-------|:---
@@ -13,7 +13,7 @@ before using them, or you might break something.
 Wow, only one!
 Why am I even writing this?
 
-# Apps
+## Apps
 
 The `apps` folder is special.
 When `collect.sh` is run,
